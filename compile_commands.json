@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/cannon/oss/ai-tf/ncnn/Debug/src",
+  "command": "/usr/bin/c++   -I/home/cannon/oss/ai-tf/ncnn/src -I/home/cannon/oss/ai-tf/ncnn/Debug/src -I/home/cannon/oss/ai-tf/ncnn/src/layer  -g -fPIC   -Wall -Wextra -Wno-unused-function -fvisibility=hidden -fvisibility-inlines-hidden -fopenmp -o CMakeFiles/ncnn.dir/allocator.cpp.o -c /home/cannon/oss/ai-tf/ncnn/src/allocator.cpp",
+  "file": "/home/cannon/oss/ai-tf/ncnn/src/allocator.cpp"
+},
+{
+  "directory": "/home/cannon/oss/ai-tf/ncnn/Debug/src",
+  "command": "/usr/bin/c++   -I/home/cannon/oss/ai-tf/ncnn/src -I/home/cannon/oss/ai-tf/ncnn/Debug/src -I/home/cannon/oss/ai-tf/ncnn/src/layer  -g -fPIC   -Wall -Wextra -Wno-unused-function -fvisibility=hidden -fvisibility-inlines-hidden -fopenmp -o CMakeFiles/ncnn.dir/blob.cpp.o -c /home/cannon/oss/ai-tf/ncnn/src/blob.cpp",
+  "file": "/home/cannon/oss/ai-tf/ncnn/src/blob.cpp"
+}
+]

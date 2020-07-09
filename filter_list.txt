@@ -1,0 +1,4 @@
+framework/av
+/home/cannon/oss/ai-tf/ncnn/Debug
+/home/cannon/oss/ai-tf/ncnn/src
+/home/cannon/oss/ai-tf/ncnn/tests
